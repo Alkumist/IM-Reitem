@@ -1,0 +1,15 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 1.13.2024
+  Changes:
+    - Changed Recipe of intermediate module 1
+    - Changed Recipe of intermediate module 2
+    - Changed Recipe of intermediate module 3
+    - Changed Recipe of Speed module 2
+    - Changed Recipe of Speed module 3
+    - Changed Recipe of Efficiency module 2
+    - Changed Recipe of Efficiency module 3
+    - Changed Recipe of Productivity module 2
+    - Changed Recipe of Productivity module 3
+  Info:
+    - Initial Release

@@ -1,0 +1,10 @@
+{
+  "name": "IM-Reitem",
+  "version": "1.0.0",
+  "title": "IM Reitem",
+  "author": "RedRafe",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1", "intermediate-module >= 0.1.0"],
+  "homepage": "https://mods.factorio.com/mod/not-here-yet",
+  "description": "changes Recepies of Intermediate Modules for better streamlining."
+}
